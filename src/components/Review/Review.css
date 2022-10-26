@@ -1,0 +1,27 @@
+/* .carts{
+    display: flex;
+    grid-template-columns: repeat(2, 1fr);
+} */
+.cart{
+    width: 350px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px;
+}
+.cart-img{
+    width: 30%;
+}
+.cart-img img{
+    width: 74px;
+    margin-left: 10px;
+}
+.cart-details{
+    width: 70%;
+    padding-left: 10px;
+}
+.cart-details p{
+    color: gray;
+    font-weight: 500;
+}

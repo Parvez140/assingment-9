@@ -1,0 +1,20 @@
+.home-carts{
+    display: flex;
+}
+.btn-div{
+    margin: 50px;
+}
+.home-reviews-btn{
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    background-color: yellow;
+    border: none;
+    padding: 10px;
+    font-weight: 600;
+    color: #413838; 
+}
+.home-reviews-btn:hover{
+    background-color: greenyellow; 
+    color: gray}
+   
