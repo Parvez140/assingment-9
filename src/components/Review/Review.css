@@ -21,7 +21,18 @@
     width: 70%;
     padding-left: 10px;
 }
+.cart-details h4{
+    color: green;
+    margin: 0px;
+}
 .cart-details p{
     color: gray;
     font-weight: 500;
+    margin: 3px 0;
+}
+.cart-details h4{
+    margin: 0px;
+}
+.cart-details h5{
+    color: green;
 }

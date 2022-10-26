@@ -4,17 +4,26 @@
 .btn-div{
     margin: 50px;
 }
+
+a{
+    text-decoration: none;
+    color: green;
+}
 .home-reviews-btn{
     display: flex;
     align-items: center;
     margin: 0 auto;
-    background-color: yellow;
-    border: none;
+    background-color: white;
+    color: green;
+    font-weight: 550;
+    font-size: 16px;
+    border: 1px solid green;
     padding: 10px;
-    font-weight: 600;
-    color: #413838; 
+    margin-top: 20px;
 }
 .home-reviews-btn:hover{
-    background-color: greenyellow; 
-    color: gray}
-   
+    background-color: tomato;
+    color: white;
+    border: 2px solid white;
+}
+  

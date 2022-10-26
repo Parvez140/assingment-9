@@ -1,0 +1,19 @@
+.blog-section{
+    margin: 150px 100px;
+}
+.blog{
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px 5px gray;
+    margin: 40px;
+    padding: 20px;
+}
+.blog h3{
+font-size: 25px;
+font-weight: bold;
+color: yellowgreen;
+margin-bottom: 0;
+}
+.blog p{
+  font-size: 18px;
+  color: gray;
+}

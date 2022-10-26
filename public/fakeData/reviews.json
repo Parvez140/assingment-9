@@ -9,35 +9,35 @@
     {
         "id": 2,
         "name": "Harry Potter",
-        "review": "Hi, I am Aria Stark. I am full of satis faction with they.They are very friendly and healpful.And rate is very good form others.",
-        "ratting":"5",
+        "review": "Hi, I am Harry Potter. I am full of satis faction with they.They are very friendly and healpful.And rate is very good form others.",
+        "ratting":"4.5",
         "img":"https://i.ibb.co/BTMNmf9/img-2.png"
     },
     {
         "id": 3,
         "name": "Miss Noodles",
-        "review": "Hi, I am Aria Stark. I am full of satis faction with they.They are very friendly and healpful.And rate is very good form others.",
+        "review": "Hi, I am Miss Noodles. I am full of satis faction with they.They are very friendly and healpful.And rate is very good form others.",
         "ratting":"5",
         "img":"https://i.ibb.co/pnb3c3s/img-3.png"
     },
     {
         "id": 4,
         "name": "Dong Ming",
-        "review": "Hi, I am Aria Stark. I am full of satis faction with they.They are very friendly and healpful.And rate is very good form others.",
-        "ratting":"5",
+        "review": "Hi, I am Dong Ming. I am full of satis faction with they.They are very friendly and healpful.And rate is very good form others.",
+        "ratting":"4",
         "img":"https://i.ibb.co/L64Tq37/img-4.png"
     },
     {
         "id": 5,
         "name": "Black Mama",
-        "review": "Hi, I am Aria Stark. I am full of satis faction with they.They are very friendly and healpful.And rate is very good form others.",
-        "ratting":"5",
+        "review": "Hi, I am Black Mama. I am full of satis faction with they.They are very friendly and healpful.And rate is very good form others.",
+        "ratting":"3.5",
         "img":"https://i.ibb.co/L5xCYNh/img-5.png"
     },
     {
         "id": 6,
         "name": "Natasha",
-        "review": "Hi, I am Aria Stark. I am full of satis faction with they.They are very friendly and healpful.And rate is very good form others.",
+        "review": "Hi, I am Natasha. I am full of satis faction with they.They are very friendly and healpful.And rate is very good form others.",
         "ratting":"5",
         "img":"https://i.ibb.co/xL20wsk/img-6.png"
     }

@@ -1,0 +1,13 @@
+.about-us{
+    padding: 30px;
+    margin: 40px;
+}
+.about-us h3{
+    font-weight: 700;
+    font-size: 44px;
+    color: yellowgreen;
+}
+.about-us p{
+    color: gray;
+    font-size: 18px;
+}
